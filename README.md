@@ -7,6 +7,7 @@ A helloworld collection with all kinds of programing language
 - [x] C
 - [x] C Plus Plus
 - [x] Golang
+- [x] NodeJS
 - [x] Python
 - [x] Perl
 - [x] Ruby
