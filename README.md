@@ -8,4 +8,8 @@ A helloworld collection with all kinds of programing language
 - [x] C Plus Plus
 - [x] Golang
 - [x] Python
+- [x] Perl
+- [x] Ruby
 - [x] Swift
+
+
